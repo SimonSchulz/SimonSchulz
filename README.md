@@ -1,10 +1,10 @@
 # Hi, I'm Semyon 👋
 Fullstack developer with more than 1.5 years of commertial experience. 
-<p align='center'>
+<p>
    <a href="https://www.linkedin.com/in/semyon-shulga/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-<p align='center'>
+<p>
    📫 How to reach me: <a href='mailto:zenkov241091@gmail.com'>zenkov241091@gmail.com</a> telegram: @simonschulz
 </p>
 
@@ -18,7 +18,7 @@ Fullstack developer with more than 1.5 years of commertial experience.
 
 [![codewars](https://www.codewars.com/users/SimonSchulz/badges/large)](https://www.codewars.com/users/SimonSchulz) 
 
-<p align='center'>
+<p>
    <a href="https://github.com/SimonSchulz/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchulz&layout=compact"/></a>
 </p>
