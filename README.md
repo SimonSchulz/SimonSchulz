@@ -1,14 +1,5 @@
 # Hi, I'm Semyon 👋
 Fullstack developer with more than 1.5 years of commertial experience. 
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=SimonSchulz&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/SimonSchulz/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchulz&layout=compact"/></a>
-</p>
-
 <p align='center'>
    <a href="https://www.linkedin.com/in/semyon-shulga/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,3 +15,10 @@ Fullstack developer with more than 1.5 years of commertial experience.
 *   JavaScript, TypeScript, React, Redux
 *   Node.js, Express.js, Nest.js
 *   GitHub/GitLab
+
+[![codewars](https://www.codewars.com/users/SimonSchulz/badges/large)](https://www.codewars.com/users/SimonSchulz) 
+
+<p align='center'>
+   <a href="https://github.com/SimonSchulz/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchulz&layout=compact"/></a>
+</p>
