@@ -26,7 +26,7 @@ Fullstack developer with more than 1.5 years of commertial experience.
 *   GitHub/GitLab
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="https://github.com/SimonSchulz/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
