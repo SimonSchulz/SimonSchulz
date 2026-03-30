@@ -19,6 +19,5 @@ Fullstack developer with more than 1.5 years of commertial experience.
 [![codewars](https://www.codewars.com/users/SimonSchulz/badges/large)](https://www.codewars.com/users/SimonSchulz) 
 
 <p>
-   <a href="https://github.com/SimonSchulz/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchulz&layout=compact"/></a>
+   <a href="https://github.com/SimonSchulz/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchulz&layout=compact"/></a>
 </p>
