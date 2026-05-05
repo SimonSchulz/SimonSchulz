@@ -1,6 +1,6 @@
 # Hi, I'm Semyon 👋
 
-Backend Developer (Node.js, NestJS) | Fullstack (Backend-focused)
+Backend Developer (Express.js/NestJS) | Fullstack (React.js)
 
 I build API-driven applications with authentication, user interactions, and structured backend architecture.
 
