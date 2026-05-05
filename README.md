@@ -1,23 +1,63 @@
 # Hi, I'm Semyon 👋
-Fullstack developer with more than 1.5 years of commertial experience. 
-<p>
-   <a href="https://www.linkedin.com/in/semyon-shulga/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-<p>
-   📫 How to reach me: <a href='mailto:zenkov241091@gmail.com'>zenkov241091@gmail.com</a> telegram: @simonschulz
-</p>
 
+Backend Developer (Node.js, NestJS) | Fullstack (Backend-focused)
 
-## 🛠 Technical Stack
-*   Java, Spring Framework, Spring Boot
-*   MySQL, PostgreSQL
-*   JavaScript, TypeScript, React, Redux
-*   Node.js, Express.js, Nest.js
-*   GitHub/GitLab
+I build API-driven applications with authentication, user interactions, and structured backend architecture.
 
-[![codewars](https://www.codewars.com/users/SimonSchulz/badges/large)](https://www.codewars.com/users/SimonSchulz) 
+---
 
-<p>
-   <a href="https://github.com/SimonSchulz/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchulz&layout=compact"/></a>
-</p>
+## 🔧 Tech Stack
+
+**Backend:**
+- Node.js, Express, NestJS  
+- REST API design  
+- JWT authentication (access / refresh tokens)
+
+**Databases:**
+- PostgreSQL (TypeORM, QueryBuilder)  
+- MongoDB (Mongoose)
+
+**Frontend (secondary):**
+- React, Redux Toolkit, TanStack Query, Zustand  
+
+**Other:**
+- TypeScript, JavaScript  
+- Git, REST, WebSocket (basic)
+
+---
+
+## 📌 Key Project
+
+### Content Platform API
+
+Backend application with authentication and user interaction logic.
+
+**Features:**
+- Authentication (JWT, access & refresh tokens)
+- Login / logout flow
+- CRUD for blogs, posts, comments
+- Like / dislike system (user-specific state)
+- Pagination and filtering
+
+**Tech:**
+- NestJS, Node.js  
+- PostgreSQL (TypeORM)  
+- MongoDB (earlier version)
+
+**Architecture:**
+- controllers / services / repositories  
+- modular structure  
+
+---
+
+## 🧠 Practice
+
+[![codewars](https://www.codewars.com/users/SimonSchulz/badges/large)](https://www.codewars.com/users/SimonSchulz)
+
+---
+
+## 📫 Contact
+
+- Email: zenkov241091@gmail.com  
+- Telegram: @simonschulz  
+- LinkedIn: https://www.linkedin.com/in/semyon-shulga/
